@@ -33,6 +33,5 @@ async function registerAllusers() {
 document.addEventListener('DOMContentLoaded', function () {
    registerAllusers().then(function(res) {
       showUser(document.getElementById('users'));
-      document.dispatchEvent(new Event('ListUserLoaded'));
    });
 })
