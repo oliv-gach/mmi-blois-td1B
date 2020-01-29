@@ -1,16 +1,23 @@
 .user-list {
 
+    display: flex;
+    margin: auto;
 }
 
 .user {
+    display: flex;
+
+
 
 }
 
 .user-name {
+    font-weight: 700; 
 
 }
 
 .user-avatar {
+    width: 20%;
 
 }
 
