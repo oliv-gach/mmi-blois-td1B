@@ -5,7 +5,7 @@
 
 var options = {
    valueNames: [ 'user-name'],
-   searchClass: 'user-name'
+   searchClass: 'search'
  };
  
  document.addEventListener('DOMContentLoaded', function() {
