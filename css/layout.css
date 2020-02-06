@@ -1,26 +1,21 @@
-.user-list {
-
-    display: flex;
+.user-list{
     margin: auto;
+    list-style-type: none;
+    padding-left: 0px;
+    height: 75px;
+    line-height: 75px;
 }
 
-.user {
-    display: flex;
-
-
-
+.user-list img{
+    padding-left:10px;
+    vertical-align:middle;
 }
 
 .user-name {
     font-weight: 700; 
-
 }
+
 
 .user-avatar {
-    width: 20%;
-
-}
-
-footer {
-
+    width: 40px;
 }
