@@ -26,6 +26,7 @@ async function registerAllusers() {
    await registerUser('owein');
    await registerUser('elise');
    await registerUser('lilian');
+   await registerUser('nicolas');
 }
 
 /**
